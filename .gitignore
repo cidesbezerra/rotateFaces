@@ -1,9 +1,9 @@
 # commented line
+*.txt
+*.npy
+
 input/test/*.jpg
 input/train/*.jpg
-
-#rotateFacesDeeperSystems/output/*.png
-#rotateFacesDeeperSystems/output/rotatedImages/
 
 output/*.zip
 output/rotatedImages/
@@ -11,5 +11,5 @@ output/*.model
 output/*.png
 output/*.pickle
 
-rotateFacesDeeperSystems/*.txt
-*.npy 
+#rotateFacesDeeperSystems/*.txt
+#*.npy 
