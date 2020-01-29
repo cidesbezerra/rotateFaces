@@ -11,5 +11,5 @@ output/*.model
 output/*.png
 output/*.pickle
 
-*.txt
+rotateFacesDeeperSystems/*.txt
 *.npy 
