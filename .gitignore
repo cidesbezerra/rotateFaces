@@ -1,4 +1,4 @@
-./input/test/
+input/test/*
 rotateFacesDeeperSystems/input/train/*.jpg
 rotateFacesDeeperSystems/output/*.png
 rotateFacesDeeperSystems/output/rotatedImages/
