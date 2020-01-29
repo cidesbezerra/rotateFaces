@@ -1,5 +1,5 @@
 # commented line
-*.txt
+#*.txt
 *.npy
 
 input/test/*.jpg
