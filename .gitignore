@@ -1,10 +1,9 @@
 input/test/*.jpg
 input/train/*.jpg
-#rotateFacesDeeperSystems/output/*.png
-#rotateFacesDeeperSystems/output/rotatedImages/
-output/*.zip *.png *.model *.pickle
+output/*.png
 output/rotatedImages/
-#rotateFacesDeeperSystems/output/*.model
-#rotateFacesDeeperSystems/output/*.pickle
-#rotateFacesDeeperSystems/*.txt
-*.npy *.txt
+output/*.zip 
+output/*.model
+output/*.pickle
+*.txt
+*.npy
