@@ -4,3 +4,4 @@
 *.model
 *.pickle
 *.txt
+*.npy
