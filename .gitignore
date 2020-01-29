@@ -1,8 +1,6 @@
-rotateFacesDeeperSystems/input/test/*.jpg
-rotateFacesDeeperSystems/input/train/*.jpg
-rotateFacesDeeperSystems/output/*.png
-rotateFacesDeeperSystems/output/rotatedImages/
-rotateFacesDeeperSystems/output/*.zip
-rotateFacesDeeperSystems/output/*.model
-rotateFacesDeeperSystems/output/*.pickle
-rotateFacesDeeperSystems/*.txt
+*.jpg
+*.png
+*.zip
+*.model
+*.pickle
+*.txt
