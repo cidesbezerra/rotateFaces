@@ -1,4 +1,4 @@
-./input/test/*.jpg
+./input/test/
 rotateFacesDeeperSystems/input/train/*.jpg
 rotateFacesDeeperSystems/output/*.png
 rotateFacesDeeperSystems/output/rotatedImages/
@@ -6,4 +6,4 @@ rotateFacesDeeperSystems/output/*.zip
 rotateFacesDeeperSystems/output/*.model
 rotateFacesDeeperSystems/output/*.pickle
 rotateFacesDeeperSystems/*.txt
-./*.npy
+*.npy
