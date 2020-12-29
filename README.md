@@ -1,9 +1,9 @@
-# rotateFacesDeeperSystems
+# rotateFaces
 
 This project consists of recognizing the rotation of people's face images (`upright`,`rotated_left`, `rotated_right`, or `upside_down`) and correcting that rotation so that the faces are upright.
 
 
-For this, the model of Neural Network CIFAR10 with the Keras library was adapted to the following specifications:
+For this, the model of Neural Network with the Keras library was adapted to the following specifications:
 * Read images converted to 1d with resolution `64 * 64 * 3 = 12288`.
 * Scale the raw pixel intensities to the range `[0, 1]`.
 * Convert the labels from integers to binary vectors (a binary vector corresponding to each label).
